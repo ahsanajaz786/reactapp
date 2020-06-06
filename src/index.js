@@ -8,7 +8,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <div>
    <App name="Ahsan Ajaz" />
-   <Hello></Hello>
+  
 
   </div>,
   document.getElementById('root')
