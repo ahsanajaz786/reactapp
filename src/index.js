@@ -2,11 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Hello from './Helllo'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <div>
    <App name="Ahsan Ajaz" />
+   <Hello></Hello>
 
   </div>,
   document.getElementById('root')
